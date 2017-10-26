@@ -1,4 +1,4 @@
-## About Me
+# About Me
 Welcome! Bienvenidos! Bienvenue! Yokoso!
 
 My passion for Computer Science was cemented when I learned **I could create something from nothing.**
@@ -45,15 +45,15 @@ University of Georgia, Franklin College of Arts and Science
 
 *Bachelor of Science in Computer Science*, December 2019
 
-## Top Personal Projects
+# Top Personal Projects
 
 Here is a gallery of personal side projects that I have initiated, and accomplished in my spare time.
 
-## Collaborations
+# Collaborations
 
 Here is a gallery of my work with that is shared with other people.
 
-## Research Related
+# Research Related
 
 My passion for Computer Science lies in **computer graphics**. <br /> 
 Futhermore, I see code as an art medium, and I want to help merge technology and art.
