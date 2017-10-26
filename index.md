@@ -1,4 +1,4 @@
-#### About Me
+# About Me
 Welcome to my site! 
 
 I am a Computer Science (CS) student at the University of Georgia (UGA), with an emphasis on **computer graphics**.
@@ -7,7 +7,7 @@ During highschool, I made a small "hello world" program. It was a simple program
 excited that I could create something from nothing! From that small program, I now had vast 
 possibilities on what I could create, with only my imagination limiting me!
 
-Computer Science correlated with another passion of mine: movies. </br>
+Computer Science correlated with another passion of mine: movies.<br /> 
 I remember watching *Lady and the Tramp*, and *How To Train Your Dragon*, for the first time. I was 
 just mesmerized by the silver screen. A whole universe was created. A world of new sounds.
 A world that has it's own rules. A world which previously never existed. A team of talent, from various backgrounds,
@@ -23,12 +23,11 @@ I just did not have a way to do that, until I learned about Computer Science. Wh
 
 **To create art with technology!**
 
-If I can help in any way, please feel free to reach out to me. :D </br>
+If I can help in any way, please feel free to reach out to me. :D <br /> 
 I am really excited for any opportunity that could advance this field, as well as my professional development!
 
-P.S. </br>
-I love movies! Just check out my letterboxd for proof of my love! </br>
-https://letterboxd.com/snowdrgn/films/
+P.S. <br /> 
+I love movies! Just check out my [letterboxd](https://letterboxd.com/snowdrgn/films/ "My Letterboxd!") for proof of my love!<br /> 
 
 ## Welcome to GitHub Pages
 
