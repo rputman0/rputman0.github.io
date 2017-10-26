@@ -35,10 +35,10 @@ P.S. <br />
 I love movies! Just check out my [letterboxd](https://letterboxd.com/snowdrgn/films/ "My Letterboxd!") for proof of my love!<br /> 
 
 ## Technical Skills
-Programming Languages: Python, JavaScript, Java, C, C++, Matlab <br /> 
-Operating Systems: Linux, UNIX, Windows Vista/7/10, Mac OS X <br /> 
-Software: Git, MiKTeX, emacs, PuTTY, Paint.NET, Notepad++, MS Excel/Office/Powerpoint/Word <br /> 
-Oral Languages: English (Native), French (Intermediate: Conversational, Written), Spanish (Intermediate: Conversational, Written),  Japanese (Beginner: Written)
+**Programming Languages:** Python, JavaScript, Java, C, C++, Matlab <br /> 
+**Operating Systems:** Linux, UNIX, Windows Vista/7/10, Mac OS X <br /> 
+**Software:** Git, MiKTeX, emacs, PuTTY, Paint.NET, Notepad++, MS Excel/Office/Powerpoint/Word <br /> 
+**Oral Languages**: English (Native), French (Intermediate: Conversational, Written), Spanish (Intermediate: Conversational, Written),  Japanese (Beginner: Written)
 
 # Personal Projects
 
