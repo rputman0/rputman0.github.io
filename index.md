@@ -27,9 +27,6 @@ accomplish this, until I learned about the possibilities in Computer Science. Wh
 
 **TO CREATE ART WITH TECHNOLOGY!**
 
-My passion for Computer Science lies in **computer graphics**.
-Futhermore, I see code as an art medium, and I want to help merge technology and art.
-
 If I can help in any way, please feel free to reach out to me. :D <br /> 
 Please contact me if you require further inquiry, or for any opportunity that could advance this field,
 as well as my professional development!
@@ -37,6 +34,17 @@ as well as my professional development!
 P.S. <br /> 
 I love movies! Just check out my [letterboxd](https://letterboxd.com/snowdrgn/films/ "My Letterboxd!") for proof of my love!<br /> 
 
-# Personal Project
+## Technical Skills
+Programming Languages: Python, JavaScript, Java, C, C++, Matlab <br /> 
+Operating Systems: Linux, UNIX, Windows Vista/7/10, Mac OS X <br /> 
+Software: Git, MiKTeX, emacs, PuTTY, Paint.NET, Notepad++, MS Excel/Office/Powerpoint/Word <br /> 
+Oral Languages: English (Native), French (Intermediate: Conversational, Written), Spanish (Intermediate: Conversational, Written),  Japanese (Beginner: Written)
+
+# Personal Projects
 
 # Collaborations
+
+# Research Related
+
+My passion for Computer Science lies in **computer graphics**. <br /> 
+Futhermore, I see code as an art medium, and I want to help merge technology and art.
