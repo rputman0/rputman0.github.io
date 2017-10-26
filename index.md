@@ -40,7 +40,7 @@ I love movies! Just check out my [letterboxd](https://letterboxd.com/snowdrgn/fi
 **Software:** Git, MiKTeX, emacs, PuTTY, Paint.NET, Notepad++, MS Excel/Office/Powerpoint/Word <br /> 
 **Oral Languages**: English (Native), French (Intermediate: Conversational, Written), Spanish (Intermediate: Conversational, Written),  Japanese (Beginner: Written)
 
-# Personal Projects
+# Top Personal Projects
 
 Here is a gallery of personal side projects that I have attempted and accomplished in my spare time.
 
