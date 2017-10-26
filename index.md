@@ -1,19 +1,19 @@
-## About Me
+#### About Me
 Welcome to my site! 
 
-I am a CS student at the University of Georgia (UGA), with an emphasis on computer graphics.
+I am a Computer Science (CS) student at the University of Georgia (UGA), with an emphasis on **computer graphics**.
 
 During highschool, I made a small "hello world" program. It was a simple program, but I was
 excited that I could create something from nothing! From that small program, I now had vast 
 possibilities on what I could create, with only my imagination limiting me!
 
-Computer Science correlated with another passion of mine: movies.
-I remember watching Lady and the Tramp and How To Train Your Dragon, for the first time. I was 
+Computer Science correlated with another passion of mine: movies. </br>
+I remember watching *Lady and the Tramp*, and *How To Train Your Dragon*, for the first time. I was 
 just mesmerized by the silver screen. A whole universe was created. A world of new sounds.
 A world that has it's own rules. A world which previously never existed. A team of talent, from various backgrounds,
 created memorable stories from nothing. After I saw these movies, I couldn't keep my eyes
-away from the big screen: Blade Runner, Pan's Labyrinth, Ernest & Celestine, Spirited Away, 
-Wizard of Oz, Coraline, The Lego Movie and The Incredibles. All these movies are different from tone,genre,
+away from the big screen: *Blade Runner*, *Pan's Labyrinth*, *Ernest & Celestine*, *Spirited Away*, 
+*Wizard of Oz*, *Coraline*,*Your Name*, *The Lego Movie* and *The Incredibles*. All these movies are different from tone,genre,
 set design, and even production. Yet, they were all created from nothing. I especially love animated
 movies from Walt Disney, John Lasseter, Brad Bird, Henry Selick, Yoh Yoshinari, Hayao Miyazaki, and
 Makoto Shinkai. Why? Unlike a real life medium, you have to fabricate everything in the movie. The
@@ -21,13 +21,13 @@ artist has more control over what happens, and what the environment could be. Yo
 something from nothing. When I saw these movies, I knew I wanted to work in the movie industry. 
 I just did not have a way to do that, until I learned about Computer Science. Which allowed me to do to just that. 
 
-To create art with just technology!
+**To create art with technology!**
 
-If I can help in any way, please feel free to reach out to me. :D
+If I can help in any way, please feel free to reach out to me. :D </br>
 I am really excited for any opportunity that could advance this field, as well as my professional development!
 
-P.S.
-I love movies! Just check out my letterboxd for proof of my love!
+P.S. </br>
+I love movies! Just check out my letterboxd for proof of my love! </br>
 https://letterboxd.com/snowdrgn/films/
 
 ## Welcome to GitHub Pages
