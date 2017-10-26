@@ -42,7 +42,17 @@ I love movies! Just check out my [letterboxd](https://letterboxd.com/snowdrgn/fi
 
 ## Formal Education
 University of Georgia, Franklin College of Arts and Science
-Bachelor of Science in Computer Science, December 2019
+
+*Bachelor of Science in Computer Science*, December 2019
+
+## Contact Information
+The best way to contact me is through e-mail.
+
+<rputman0@gmail.com>
+
+<robert.putman@uga.edu>
+
+For further inquiry, [here is my linkedin.](https://linkedin.com/in/rputman0 "rputman0's linkedin")
 
 # Top Personal Projects
 
