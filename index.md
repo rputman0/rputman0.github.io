@@ -21,7 +21,7 @@ keep my eyes away from the big screen: *Blade Runner*, *Pan's Labyrinth*, *Ernes
 in every film I had access to, and I realized that each movie was created from almost nothing. I especially
 love animated movies from Walt Disney, John Lasseter, Brad Bird, Henry Selick, Yoh Yoshinari, Hayao Miyazaki,
 and Makoto Shinkai. Why? Unlike a real life medium, where you can use already existing settings (city,mountains,
-rooms,ambient sounds), you have to fabricate every detail in an animated film. When I watched *lady and the Tramp*
+rooms,ambient sounds), you have to fabricate every detail in an animated film. When I watched *Lady and the Tramp*
 and *How To Train Your Dragon* I knew I wanted to work in the movie industry. There was no way for me to
 accomplish this, until I learned about the possibilities in Computer Science. Which allowed me to do to just that.
 
@@ -42,7 +42,11 @@ I love movies! Just check out my [letterboxd](https://letterboxd.com/snowdrgn/fi
 
 # Personal Projects
 
+Here is a gallery of personal side projects that I have attempted and accomplished in my spare time.
+
 # Collaborations
+
+Here is a gallery of my work with that is shared with other people.
 
 # Research Related
 
