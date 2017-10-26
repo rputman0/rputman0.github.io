@@ -1,3 +1,27 @@
 theme: jekyll-theme-architect
-title: Robert Timothy Putman
-description: rputman0@gmail.com - robert.putman@uga.edu - https://www.linkedin.com/in/rputman0
+name: Robert Timothy Putman
+
+primarylinks:
+ - title: GitHub
+   url: https://github.com/rputman0
+ - title: Linkedin
+   url: https://www.linkedin.com/in/rputman0
+   
+   
+#Work experience is required
+#roles:
+ #- title: Senior Engineer
+  # start: 2012
+  # end: Ongoing
+ #  employer: Covestor
+#   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
+
+#Education is required
+education:
+ - level: Bachelor of Science (B.Sc.)
+   date: 2019
+   subject: Computer Graphics and Computer Science
+   school: University of Georgia
+
+#title: Robert Timothy Putman
+#description: rputman0@gmail.com - robert.putman@uga.edu - https://www.linkedin.com/in/rputman0
