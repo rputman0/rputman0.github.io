@@ -40,9 +40,13 @@ I love movies! Just check out my [letterboxd](https://letterboxd.com/snowdrgn/fi
 **Software:** Git, MiKTeX, emacs, PuTTY, Paint.NET, Notepad++, MS Excel/Office/Powerpoint/Word <br /> 
 **Oral Languages**: English (Native), French (Intermediate: Conversational, Written), Spanish (Intermediate: Conversational, Written),  Japanese (Beginner: Written)
 
+## Formal Education
+University of Georgia, Franklin College of Arts and Science
+Bachelor of Science in Computer Science, December 2019
+
 # Top Personal Projects
 
-Here is a gallery of personal side projects that I have attempted and accomplished in my spare time.
+Here is a gallery of personal side projects that I have initiated, and accomplished in my spare time.
 
 # Collaborations
 
