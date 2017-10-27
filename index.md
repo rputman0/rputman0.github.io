@@ -41,8 +41,7 @@ I love movies! Just check out my [letterboxd](https://letterboxd.com/snowdrgn/fi
 **Oral Languages**: English (Native), French (Intermediate: Conversational, Written), Spanish (Intermediate: Conversational, Written),  Japanese (Beginner: Written)
 
 ### Formal Education
-University of Georgia, Franklin College of Arts and Science
-
+University of Georgia, Franklin College of Arts and Science <br />
 *Bachelor of Science in Computer Science*, December 2019
 
 # Top Personal Projects
@@ -56,4 +55,5 @@ Here is a gallery of my work with that is shared with other people.
 # Research Related
 
 My passion for Computer Science lies in **computer graphics**. <br /> 
+I am interested in **frontend** development. <br />
 Futhermore, I see code as an art medium, and I want to help merge technology and art.
