@@ -47,8 +47,6 @@ University of Georgia, Franklin College of Arts and Science <br />
 # Top Personal Projects
 
 Here is a gallery of personal side projects that I have initiated, and accomplished in my spare time.
-![alt text](https://github.com/rputman0/rputman0.github.io/blob/master/simonSays.png "Simon Says")
-[https://github.com/rputman0/SimonSays]
 
 # Collaborations
 
