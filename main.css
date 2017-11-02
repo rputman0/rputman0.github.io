@@ -1,0 +1,80 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
+@import 'https://fonts.google.com/specimen/Poppins';
+
+header {
+  #background-color: #263d36;
+  background-position: center top;
+  background-repeat: repeat;
+  #background-image: url("images/sakura.jpg");
+  background-size: cover;
+  color: rgb(0,0,0);
+  line-height: 1.2;
+  padding: 10vw 2em;
+  text-align: center;
+  font-size: 32px;
+  margin: 0 auto;
+}
+
+a {
+	 color: rgb(0,0,0);
+  #color: rgb(50,205,50);
+}
+
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: "Georgia","Arial",sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  padding: 4em 1em;
+  color: #566b78;
+  #border: 5px solid #566b78;
+  background: #f5f7f9;
+}
+
+.technicalSkills {
+  font-size: 15px;
+}
+
+.formalEducation {
+  font-size: 17px;
+  font-family: calibri;
+}
+
+select {
+	font-size: 20px;
+	background: #f5f7f9;
+}
+
+strong {
+  color: #333;
+}
+
+.name {
+	font-size: 12px;
+	font-family: "Arial","calibri",sans-serif;
+}
+
+@keyframes fadeInDownBig {
+  from {
+    opacity: 0;
+    transform: translate3d(0, -2000px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+div {
+  -webkit-animation-duration: 2s;
+  #animation-duration: 2s;
+  -webkit-animation-name: bounceIn;
+  animation: fadeInDownBig 2s ease-in-out;
+  #animation-timing-function: ease-in-out;
+}
+
+.div:hover {
+  animation-play-state: paused;
+}
