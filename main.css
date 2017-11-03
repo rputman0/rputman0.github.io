@@ -51,7 +51,7 @@ strong {
 }
 
 .name {
-	font-size: 12px;
+	font-size: 14px;
 	font-family: "Arial","calibri",sans-serif;
 }
 
@@ -67,10 +67,10 @@ strong {
   }
 }
 
-div {
+.anim {
   -webkit-animation-duration: 2s;
   #animation-duration: 2s;
-  -webkit-animation-name: bounceIn;
+  -webkit-animation-name: fadeInDownBig;
   animation: fadeInDownBig 2s ease-in-out;
   #animation-timing-function: ease-in-out;
 }
