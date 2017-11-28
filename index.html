@@ -1,13 +1,16 @@
 <html>
 	<head>
 		<title>Robert T. Putman</title>
-		<link rel="stylesheet"	type="text/css" href="main.css"/>
 		<script type="text/javascript" src="script.js"></script>
+		<!-- use a customized version of bootstrap from http://getbootstrap.com/customize-->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet"	type="text/css" href="main.css"/>
 	</head>
 	<header>
 	
-	<div class="anim" @keyframes> <h1>Robert Timothy Putman <br /></h1> </div>
-		 
+	<div class="anim fullName" @keyframes><strong> Robert Timothy Putman </strong><br /> </div>
 		   rputman0@gmail.com <br />
 		   robert.putman@uga.edu <br />
 		   <a href="https://www.linkedin.com/in/rputman0"/>https://www.linkedin.com/in/rputman0</a><br />
@@ -60,7 +63,7 @@
     <div class="technicalSkills">
 		<strong>Programming Languages:</strong> Python, JavaScript/HTML/CSS, Java, C, C++, Matlab <br />
 		<strong>Operating Systems:</strong> Linux, UNIX, Windows Vista/7/10, Mac OS X <br />
-		<strong>Software:</strong> Git, Ffmpeg, MiKTeX, emacs, PuTTY, Paint.NET, Notepad++, Powershell, MS Excel/Office/Powerpoint/Word <br />
+		<strong>Software:</strong> Git, FFmpeg, MiKTeX, emacs, PuTTY, Paint.NET, Notepad++, Powershell, Bootstrap, MS Excel/Office/Powerpoint/Word <br />
 		<strong>Oral Languages:</strong> English (Native), French (Intermediate: Conversational, Written), Spanish (Intermediate: Conversational, Written), Japanese (Beginner: Written)<br />
 	</div>
 	
@@ -72,19 +75,24 @@
 
 <h2>Personal Projects</h2>
 	These are some of my personal side projects that I have initiated and finished in my spare time.
-	<img src="images/simonSays.gif" alt="Simon Says" hover="Simon Says" width="200" height="200"></img>
-	<img src="images/blueRed.gif" alt="Repeating Squares" hover="Repeating Squares" width = "200" height="200"></img>
-	<img src="images/bouncing.gif" alt="Bouncing Squares" hover="Bouncing Squares" width = "200" height="200"></img>
-	<img src="images/concentricSquares.gif" alt="Concentric Squares" hover="Concentric Squares" width = "200" height="200"></img> <br />
 	
-	<img src="images/pong.gif" alt="Pong" hover = "Pong" width="200" height="200"></img>
 	<img src="images/pianoPlayer.gif" alt="Java Player Piano" hover = "Java Piano Player" width="200" height="200"></img>
-	<img src="images/pentagon.gif" alt="Pentagon" hover = "Pentagon" width="200" height="200">
-	<img src="images/helloWorldRot.gif" alt="helloWorldRotation" hover = "Hello World Rotation" width="200" height="100"></img> <br />
+	<img src="images/pong.gif" alt="Pong" hover = "Pong" width="200" height="200"></img>
+	<img src="images/simonSays.gif" alt="Simon Says" hover="Simon Says" width="200" height="200"></img>
+	<img src="images/concentricSquares.gif" alt="Concentric Squares" hover="Concentric Squares" width = "200" height="200"></img> <br />
+	<!--TODO: make drop down menu to show the rest-->
 	
-	<img src="images/mickeyMouse.gif" alt="mickeyMouseEars" hover = "Mickey Mouse Ears" width="200" height="200"></img>
-	<img src="images/neonSign.gif" alt="neonSignAnimation" hover = "Neon Sign" width="200" height="200"></img>
-	<img src="images/colorPicker.gif" alt="colorPicker" hover = "Color Picker" width="200" height="150"></img> <br />
+	<a href="#more" class="blackLink" data-toggle="collapse">Show more?</a> <br> <br>
+		<div id="more" class="collapse">
+			<img src="images/blueRed.gif" alt="Repeating Squares" hover="Repeating Squares" width = "200" height="200"></img>
+			<img src="images/bouncing.gif" alt="Bouncing Squares" hover="Bouncing Squares" width = "200" height="200"></img>
+			<img src="images/pentagon.gif" alt="Pentagon" hover = "Pentagon" width="200" height="200">
+			<img src="images/helloWorldRot.gif" alt="helloWorldRotation" hover = "Hello World Rotation" width="200" height="100"></img> <br />
+	
+			<img src="images/mickeyMouse.gif" alt="mickeyMouseEars" hover = "Mickey Mouse Ears" width="200" height="200"></img>
+			<img src="images/neonSign.gif" alt="neonSignAnimation" hover = "Neon Sign" width="200" height="200"></img>
+			<img src="images/colorPicker.gif" alt="colorPicker" hover = "Color Picker" width="200" height="150"></img> <br /><br>
+		</div>
 		
 	<p>Links:</p>
 
@@ -96,15 +104,19 @@
 	<a href="https://github.com/rputman0/GeneratePassword"/>Generate Password,</a>
 	<a href="https://github.com/rputman0/MoveToFrontAlgorithm"/>Move To Front,</a>
 	<a href="https://github.com/rputman0/AnimationPractice"/>Animations,</a> 
-	<a href="https://github.com/rputman0/LanguagePractice/blob/master/Python/FractalTrees.PNG"/> Fractal Trees</a>
+	<a href="https://github.com/rputman0/LanguagePractice/blob/master/Python/FractalTrees.PNG"/> Fractal Trees,</a>
 	<a href="https://github.com/rputman0/PianoPlayer"/>Piano Player,</a>
 	<a href="https://github.com/rputman0/SimonSays"/>Simon Says,</a>
 	<a href="https://github.com/rputman0/Pong"/>Pong,</a> 
 	<a href="https://github.com/rputman0/TalkingClock"/>Talking Clock,</a>
 	<a href="https://github.com/rputman0/ColorsPractice"/>Colors,</a>
-	<a href="https://github.com/rputman0/YoutubeAlarm">Youtube Alarm Clock</a>
-	<a href="https://github.com/rputman0/WallpaperFixer">Wallpaper Fixer</a>
-	<a href="https://github.com/rputman0/LanguagePractice"/>Misc.</a><br />
+	<a href="https://github.com/rputman0/YoutubeAlarm">Youtube Alarm Clock,</a>
+	<a href="https://github.com/rputman0/WallpaperFixer">Wallpaper Fixer,</a>
+	<a href="https://github.com/rputman0/LanguagePractice"/>Misc.</a><br /><br />
+	
+	<p>Long Term Projects:</p> 
+	<p><strong>Volunteer Athens</strong> - A website designed to increase efficiency, and facilitate communication for a volunteer organization. <br>
+	   <strong>Movie Map</strong> - A program to show off a list of the best movies ever made, curated by me. </p>
 	
 <h2>Research Related</h2>
 	My passion for Computer Science lies in <strong>computer graphics</strong>. I am interested in <strong>frontend</strong> development. 
